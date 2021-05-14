@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto3", "Crypto3\Crypto3.csproj", "{D6FA43F7-9413-4481-B6E4-78C50FF25668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WienerAttack", "WienerAttack\WienerAttack.csproj", "{CAC98D83-C92C-404B-B781-EE54CE623CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FA43F7-9413-4481-B6E4-78C50FF25668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FA43F7-9413-4481-B6E4-78C50FF25668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FA43F7-9413-4481-B6E4-78C50FF25668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FA43F7-9413-4481-B6E4-78C50FF25668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC98D83-C92C-404B-B781-EE54CE623CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC98D83-C92C-404B-B781-EE54CE623CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC98D83-C92C-404B-B781-EE54CE623CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC98D83-C92C-404B-B781-EE54CE623CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

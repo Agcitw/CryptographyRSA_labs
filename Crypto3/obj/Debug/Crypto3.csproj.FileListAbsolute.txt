@@ -1,0 +1,6 @@
+C:\Users\anton\RiderProjects\Crypto3\Crypto3\bin\Debug\Crypto3.exe
+C:\Users\anton\RiderProjects\Crypto3\Crypto3\bin\Debug\Crypto3.pdb
+C:\Users\anton\RiderProjects\Crypto3\Crypto3\obj\Debug\Crypto3.csprojAssemblyReference.cache
+C:\Users\anton\RiderProjects\Crypto3\Crypto3\obj\Debug\Crypto3.csproj.CoreCompileInputs.cache
+C:\Users\anton\RiderProjects\Crypto3\Crypto3\obj\Debug\Crypto3.exe
+C:\Users\anton\RiderProjects\Crypto3\Crypto3\obj\Debug\Crypto3.pdb
